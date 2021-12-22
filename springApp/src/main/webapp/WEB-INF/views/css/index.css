@@ -1,0 +1,6 @@
+.container-fluid{
+	border: 1px solid #000000  ;
+}
+.col-8 ,.col-4{
+	border: 3px soild #661111;
+}
